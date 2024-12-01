@@ -1,44 +1,37 @@
-# Garfield - O Filme 🎬
+# PortoLogística
 
-Bem-vindo ao repositório do site do filme *Garfield*! Este projeto é uma página web simples e intuitiva que traz informações sobre o filme do famoso gato laranja e suas aventuras, permitindo que fãs e visitantes conheçam a história, personagens e cenas do filme.
+PortoLogística é uma solução integrada para a gestão portuária, desenvolvida para aumentar a eficiência, segurança e automação de processos em operações portuárias. Este projeto é uma aplicação web responsiva que destaca os serviços, soluções e formas de contato da plataforma.
 
-## 🖥️ Sobre o Projeto
+---
 
-Este site HTML fornece uma experiência interativa e informativa para os visitantes interessados em saber mais sobre o filme *Garfield*. O projeto foi desenvolvido com HTML básico e inclui uma estrutura completa com uma sinopse, uma breve biografia dos personagens principais, uma galeria de imagens e muito mais.
+## 🎯 **Objetivo**
+Simplificar as operações logísticas nos portos brasileiros, oferecendo uma interface intuitiva e informações claras sobre as soluções disponíveis.
 
-### Estrutura do Site
+---
 
-- **Sinopse**: Uma descrição breve e atraente sobre a história do filme, introduzindo os personagens e o enredo.
-- **Sobre o filme**: Mais detalhes sobre a trama, com uma seção especial para a relação entre Garfield e a gata Arlene.
-- **Galeria**: Uma coleção de imagens com momentos icônicos do filme.
-- **Citações e Frases**: Frases divertidas e icônicas do Garfield para dar um toque de humor.
-- **Footer**: Informações sobre os direitos autorais e links para redes sociais (se aplicável).
+## 📂 **Estrutura do Projeto**
+O projeto é dividido em duas partes principais:
+- **HTML**: Estrutura e conteúdo do site.
+- **CSS**: Estilos e layout da aplicação.
 
-## 📁 Estrutura de Arquivos
-```
-.
-├── assets/
-│   ├── LOGO.png            # Logo do site
-│   ├── POSTER.png          # Pôster oficial do filme
-│   ├── ENCONTRO.png        # Imagem de Garfield e Arlene
-│   ├── LASANHA.png         # Imagem de Garfield comendo lasanha
-│   ├── ODIE.png            # Imagem do cachorro Odie
-│   └── JON.png             # Imagem de Jon Arbuckle
-├── index.html              # Arquivo principal do site
-└── README.md               # Documentação do projeto
-```
+### **Seções Principais**
+1. **Home:** Apresentação inicial do sistema com navegação clara.
+2. **Mais:** Destaque sobre as soluções da PortoLogística.
+3. **Sobre:** Detalhes sobre a gestão portuária integrada.
+4. **Serviços:** Descrição dos serviços oferecidos, como aluguel de containers, monitoramento e suporte logístico.
+5. **Contato:** Formulário para enviar mensagens e galeria com locais de atendimento.
 
-🌟 Recursos do Projeto
-HTML puro: Todo o conteúdo e a estrutura são desenvolvidos usando apenas HTML, proporcionando uma base sólida para iniciantes.
-Imagens e Descrições: Imagens descritivas com alt tags para melhor acessibilidade e SEO.
-Navegação intuitiva: Menu de navegação simples para acesso rápido a todas as seções do site.
-Design minimalista: Focado em simplicidade e usabilidade.
+---
 
-🚀 Como Visualizar o Projeto
-Link - https://vieiradg.github.io/Vai_na_web/Desafio%201/
+## 🛠️ **Tecnologias Utilizadas**
+- **HTML5**: Para a estrutura semântica do site.
+- **CSS3**: Para estilização e layout responsivo.
+- **Google Fonts**: Fontes utilizadas: `Oswald` e `Roboto`.
 
-📝 Licença
-Este projeto é apenas para fins de estudo e entretenimento. Todos os direitos sobre o filme Garfield e seus personagens são reservados aos seus respectivos proprietários.
+---
 
-Contribuições
-Sinta-se à vontade para sugerir melhorias, relatar bugs ou contribuir com novas funcionalidades para este site!
+## 🚀 **Como Visualizar o Projeto**
+Link - https://vieiradg.github.io/Vai_na_web/Desafio%202/
+
+
+
