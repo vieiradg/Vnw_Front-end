@@ -1,9 +1,14 @@
+import "./Reembolsos.module.scss";
 
 
 function Reembolsos (){
     return(
         <>
-        <h1>2</h1>
+        <header>
+            <img src={Home} alt="" />
+            <img src={Seta} alt="" />
+            <p>Reembolsos</p>
+        </header>
         </>
     )
 }
