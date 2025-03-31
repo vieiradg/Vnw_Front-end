@@ -1,5 +1,8 @@
 # PortoLogística
 
+![image](https://github.com/user-attachments/assets/381ee808-8b42-4beb-99d7-4149e297b519)
+
+
 PortoLogística é uma solução integrada para a gestão portuária, desenvolvida para aumentar a eficiência, segurança e automação de processos em operações portuárias. Este projeto é uma aplicação web responsiva que destaca os serviços, soluções e formas de contato da plataforma.
 
 ---
@@ -31,7 +34,7 @@ O projeto é dividido em duas partes principais:
 ---
 
 ## 🚀 **Como Visualizar o Projeto**
-Link - https://vieiradg.github.io/Vai_na_web/Desafio%202/
+Link - https://vieiradg.github.io/Vnw_Front-end/Desafio%202/
 
 
 
