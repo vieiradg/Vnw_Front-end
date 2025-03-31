@@ -1,5 +1,8 @@
 # Garfield - O Filme 🎬
 
+![image](https://github.com/user-attachments/assets/e750aba5-48f4-425e-b677-0d833790ef37)
+
+
 Bem-vindo ao repositório do site do filme *Garfield*! Este projeto é uma página web simples e intuitiva que traz informações sobre o filme do famoso gato laranja e suas aventuras, permitindo que fãs e visitantes conheçam a história, personagens e cenas do filme.
 
 ## 🖥️ Sobre o Projeto
@@ -35,7 +38,7 @@ Navegação intuitiva: Menu de navegação simples para acesso rápido a todas a
 Design minimalista: Focado em simplicidade e usabilidade.
 
 🚀 Como Visualizar o Projeto
-Link - https://vieiradg.github.io/Vai_na_web/Desafio%201/
+Link - https://vieiradg.github.io/Vnw_Front-end/Desafio%201/
 
 📝 Licença
 Este projeto é apenas para fins de estudo e entretenimento. Todos os direitos sobre o filme Garfield e seus personagens são reservados aos seus respectivos proprietários.
